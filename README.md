@@ -44,8 +44,11 @@ MOUSE → ISR Completed at 10:25:34
 10:25:33 - KEYBOARD executed
 10:25:34 - MOUSE executed
 
-#Output
+# Output
+
+
 <img width="902" height="673" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ffd28fa8-21d3-4b49-98dc-ff13ad46a1db" />
+
 
 # Conclusion
 This simulation effectively demonstrates:
